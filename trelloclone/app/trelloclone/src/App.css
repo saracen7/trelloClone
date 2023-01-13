@@ -1,0 +1,51 @@
+body{
+  background-image: url("./david-marcu-78A265wPiO4-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size:auto;
+  font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.listBox{
+  background-color: #ebecf0;
+  border-radius: 3px;
+    box-sizing: border-box;
+
+    max-height: 100%;
+    position: relative;
+    white-space: normal;
+    width: 300px;
+    margin: 12px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h4{
+  margin: 0 0 10px 0;
+}
+
+.cardBox{
+  width: calc(100%-10px);
+  background-color: #fff;
+  padding: 8px 0 8px 8px;
+  margin-bottom: 10px;
+}
+
+.addList{
+  display: inline-block;
+  background-color: rgba(255,255,255, .35);
+  padding: 10px;
+  vertical-align: top;
+  border-radius: 3px;
+  box-sizing: border-box;
+  max-height: 100%;
+  position: relative;
+  white-space: normal;
+   width: 300px;
+  margin: 12px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
